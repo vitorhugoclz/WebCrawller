@@ -1,0 +1,6 @@
+#removendo pastas de ambiente virtual
+.venv
+venv
+*.html
+*.exe
+*.log
