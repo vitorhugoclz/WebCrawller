@@ -12,8 +12,8 @@ import time
 #xpath da barra de rolagem /html/body/div[1]/div[2]/div/div/div[3]/div/div[4]/div/div[1]/div
 #xath de seta para baixo /html/body/div[1]/div[2]/div/div/div[3]/div/div[4]/div/div[6]
 
-#url = "https://artofproblemsolving.com/community/c5h404350_perfect_squares_2011_usajmo_1"
-url =  "https://artofproblemsolving.com/community/c5h2308615_fav_program"
+url = "https://artofproblemsolving.com/community/c5h404350_perfect_squares_2011_usajmo_1"
+#url =  "https://artofproblemsolving.com/community/c5h2308615_fav_program"
 #url = "https://artofproblemsolving.com/community/c5h404347_a2b2c2lt4_2011_usamo_1_2011_usajmo_2"
 #url = "https://artofproblemsolving.com/community/c6h2478239_incredible_vanilla_geometry_again"
 
